@@ -2,6 +2,11 @@
   "name": "cursory-midnight",
   "displayName": "cursory-midnight",
   "description": "A fork of an elegant midnight theme, with some improvements",
+  "publisher": "jmroon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmroon/cursory-midnight-vscode-theme.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"
