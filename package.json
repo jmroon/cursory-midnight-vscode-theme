@@ -1,0 +1,21 @@
+{
+  "name": "cursory-midnight",
+  "displayName": "cursory-midnight",
+  "description": "A fork of an elegant midnight theme, with some improvements",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cursory Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cursory Midnight-color-theme.json"
+      }
+    ]
+  }
+}
